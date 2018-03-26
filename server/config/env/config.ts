@@ -1,4 +1,4 @@
-let extension: string = 'js';
+let extension: string = 'ts';
 if(process.env.NODE_ENV == 'development') {
   extension = 'js';
 }

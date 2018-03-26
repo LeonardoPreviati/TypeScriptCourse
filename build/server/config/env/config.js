@@ -1,4 +1,4 @@
-var extension = 'js';
+var extension = 'ts';
 if (process.env.NODE_ENV == 'development') {
     extension = 'js';
 }
