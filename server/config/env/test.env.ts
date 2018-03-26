@@ -3,7 +3,7 @@ module.exports = {
   db: 'ts-api-test',
   dialect: 'postgres',
   username: 'postgres',
-  password: '1234',
+  password: 'pgroot',
   host: 'localhost',
   serverPort: '4000',
   pgPort: '5432',
